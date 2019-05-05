@@ -1,4 +1,4 @@
-# Efficient-Region-Proposal
+# Efficient Region Proposal for Pedestrian Detection
 
 This project proposes a probability function to estimate the possibility of a person in a specific region to generate detection windows which have high response of person appearance.
 
